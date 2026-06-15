@@ -1,6 +1,6 @@
 # Logistics Data Integrity & Optimization
 
-> **A data quality and process improvement project demonstrating end-to-end Excel data cleaning, standardization, and reporting for warehouse shipping operations.**
+> **A data quality and process improvement practice project displaying the end-to-end Excel data cleaning, standardization, and reporting for warehouse shipping logs and operations.**
 
 ---
 
